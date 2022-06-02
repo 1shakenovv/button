@@ -1,6 +1,4 @@
 # button
 next.js to bootstrap
 
-
-https://user-images.githubusercontent.com/55362290/171655783-938ead5e-1906-4a7c-8c5f-027ef4c0a8b7.mp4
-
+![Desktop_220602_1953](https://user-images.githubusercontent.com/55362290/171656114-7e576af8-3d1a-475d-bb34-00fd0253ac30.gif)
